@@ -1,4 +1,4 @@
-# shn
+# shorten-rs
 
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-6B48FF?logo=anthropic&logoColor=white)](https://claude.ai/claude-code)
 
