@@ -41,12 +41,7 @@ This covers essentially all SHN files found in the wild.
 
 ## Clean-room implementation
 
-Implemented from public, unencumbered sources:
-
-- T. Robinson, "SHORTEN: Simple lossless and near-lossless waveform compression" (Cambridge University Engineering Dept, Technical Report 156, 1994)
-- Library of Congress format description [fdd000199](https://www.loc.gov/preservation/digital/formats/fdd/fdd000199.shtml)
-
-No code derived from SoftSound's reference implementation or FFmpeg's decoder.
+This decoder was written without reference to existing source code (SoftSound's reference implementation, FFmpeg's decoder, or any other implementation). Developed from public technical documentation and empirical testing against real-world SHN files.
 
 ## License
 
