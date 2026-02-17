@@ -1,0 +1,12 @@
+[package]
+name = "shn"
+version = "0.1.0"
+edition = "2021"
+description = "Pure Rust decoder for Shorten (SHN) lossless audio files"
+license = "MIT"
+repository = "https://github.com/lexicone42/shn"
+keywords = ["audio", "shn", "shorten", "lossless", "decoder"]
+categories = ["multimedia::audio", "encoding"]
+readme = "README.md"
+
+# Zero dependencies — pure Rust
