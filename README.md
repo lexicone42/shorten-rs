@@ -9,7 +9,7 @@ Shorten is a lossless audio codec from 1994, still widely used in live music tra
 ## Usage
 
 ```rust
-use shn::ShnReader;
+use shorten_rs::ShnReader;
 
 let mut reader = ShnReader::open("track.shn")?;
 let info = reader.info();

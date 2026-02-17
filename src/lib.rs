@@ -13,7 +13,7 @@
 //! # Example
 //!
 //! ```no_run
-//! use shn::ShnReader;
+//! use shorten_rs::ShnReader;
 //!
 //! let mut reader = ShnReader::open("track.shn").unwrap();
 //! let info = reader.info();
