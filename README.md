@@ -1,5 +1,7 @@
 # shn
 
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-6B48FF?logo=anthropic&logoColor=white)](https://claude.ai/claude-code)
+
 Pure Rust decoder for [Shorten (SHN)](https://en.wikipedia.org/wiki/Shorten_(file_format)) lossless audio files. Zero dependencies.
 
 Shorten is a lossless audio codec from 1994, still widely used in live music trading communities (Grateful Dead, Phish, etc.) for archival concert recordings.
